@@ -1,0 +1,14 @@
+{
+    "id": "googleclassroom",
+    "name": "Google Classroom",
+    "version": "1.0.0",
+    "description": "Google Classroom",
+    "main": "index.js",
+    "author": "Tania R. Zuniga <tania@tanx.dev>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://classroom.google.com/",
+      "hasTeamId": false,
+      "hasNotificationSound": false
+    }
+  }
