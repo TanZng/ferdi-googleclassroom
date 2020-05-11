@@ -1,5 +1,6 @@
 # Ferdi Google Classroom
 A Google Classroom recipe for Ferdi
+
 Fixes getferdi/recipes#135
 
 ### Release notes
