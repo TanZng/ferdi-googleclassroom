@@ -4,6 +4,8 @@ A Google Classroom recipe for Ferdi
 Fixes getferdi/recipes#135
 
 ### Release notes
+1.0.2: DarkMode support
+
 1.0.1: fix serviceURL
 
 1.0.0: First version
